@@ -163,8 +163,8 @@ for (item of buttons) {
 ```
 
 ## OUTPUT:
-![image](https://github.com/VARSHINI22009118/standard-calculator/assets/119401150/1fe05b15-0f8a-4a61-93b2-7e004f0b334d)
-![image](https://github.com/VARSHINI22009118/standard-calculator/assets/119401150/e9cdd6ef-d389-49fd-b168-5d127f3e14cd)
+![Uploading image.png…]()
+
 
 
 ## Result:
