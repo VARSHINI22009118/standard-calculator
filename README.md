@@ -164,6 +164,7 @@ for (item of buttons) {
 
 ## OUTPUT:
 ![image](https://github.com/VARSHINI22009118/standard-calculator/assets/119401150/66737422-b211-44fb-809a-7b6521f105cb)
+![image](https://github.com/VARSHINI22009118/standard-calculator/assets/119401150/02748fe1-a0bf-4814-ba5e-771493d033e6)
 
 
 
